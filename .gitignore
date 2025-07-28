@@ -1,0 +1,8 @@
+test-data/*
+test-cron/*
+test-backups/*
+cron-backup-example.sh
+docker-compose.test.yml
+enhanced-test-runner.sh
+run-comprehensive-tests.sh
+README.md.backup
